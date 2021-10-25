@@ -1,0 +1,28 @@
+img
+{
+    max-width: 100%;
+}
+.box
+{
+    border: 1px solid;
+    box-sizing: border-box;
+    float: left;
+    padding: 1em; 
+    width: 30%;
+    margin: 0.5%
+    
+}
+.box #guns1
+{
+    padding: 0;
+    width: 100%;
+}
+.box #guns2
+{
+    width: 71.5%;
+    margin-left: 15%;
+}
+h4
+{
+    color: orangered;
+}

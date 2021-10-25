@@ -1,0 +1,95 @@
+header
+{
+    background-color: orange;
+    padding: .5px;
+    line-height: 1em;
+}
+
+.main .contenedor .aside
+{
+    padding: 0;
+}
+.container
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background: #A95B0E;
+    margin-top: 5px;
+}
+.container a
+{
+    color: black;
+    text-decoration: none;
+}
+
+.navega ul
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.navega ul li
+{
+    display: inline-block;
+
+}
+.navega ul li a
+{
+    display: block;
+    padding: 0.5rem 0.5rem;
+    background: #FCAF62;
+}
+.navega ul li a:hover
+{
+    background: #ccc;
+}
+
+.contenedor
+{
+    background: #ccc;
+    width: 60%;
+    
+    
+}
+.contenedor article h3
+{
+    padding: 0 1rem;
+    text-align: justify;
+    
+}
+
+.aside
+{
+    background: orangered;
+    width: 40%;
+    height: 100px;
+    
+}
+.aside ul
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.aside ul li
+{
+    display: inline-block;
+}
+.aside ul li a
+{
+    display: block;
+    padding: 0.5rem 0.5rem;
+    background: #FCAF62;
+}
+
+footer
+{
+    color: whitesmoke;
+    width: 100%;
+    padding: 8px;
+    background-size: cover;
+    margin-top: 10px;
+    text-align: center;
+    background-color: #393640;
+}

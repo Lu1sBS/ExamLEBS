@@ -1,0 +1,74 @@
+body
+{
+    margin-left: 10%;
+}
+
+header a
+{
+    color: rgb(32, 30, 30);
+    text-decoration: none;
+}
+.navega ul
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.navega ul li
+{
+    display: inline-block;
+    margin: 1%;
+}
+.navega ul li a
+{
+    display: block;
+    padding: 0.5rem 0.5rem;
+}
+.navega ul li a:hover
+{
+    background: #ccc;
+}
+
+.sect
+{
+    background: #393640;
+    padding: .5em 3em;
+    width: 71.5%;
+    color: whitesmoke;
+}
+
+.box
+{
+    border: 1px solid;
+    
+    float: left;
+    padding: 0.5em;
+    width: 37.85%;
+}
+.titulo
+{
+    font-size: 30px;
+}
+.sig
+{
+    font-weight: bold;
+    font-size: 20px;
+}
+.title1
+{
+    color: rgb(63, 63, 175);
+    font-weight: bold;
+}
+h3
+{
+    font-size: 23px;
+}
+.title2
+{
+    color: gray;
+}
+.title3
+{
+    color: green;
+    font-weight: bold;
+}
